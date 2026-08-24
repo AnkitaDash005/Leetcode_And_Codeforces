@@ -85,3 +85,4 @@
 | 83 | [Score Validator](./LeetCode/Easy/Score%20Validator) | [LeetCode](https://leetcode.com/problems/score-validator/) | Easy | 24 Aug 2026 | 05:39 pm |
 | 84 | [Valid Digit Number](./LeetCode/Easy/Valid%20Digit%20Number) | [LeetCode](https://leetcode.com/problems/valid-digit-number/) | Easy | 24 Aug 2026 | 05:56 pm |
 | 85 | [Traffic Signal Color](./LeetCode/Easy/Traffic%20Signal%20Color) | [LeetCode](https://leetcode.com/problems/traffic-signal-color/) | Easy | 24 Aug 2026 | 06:00 pm |
+| 86 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 24 Aug 2026 | 06:12 pm |
