@@ -89,3 +89,4 @@
 | 87 | [Count Dominant Indices](./LeetCode/Easy/Count%20Dominant%20Indices) | [LeetCode](https://leetcode.com/problems/count-dominant-indices/) | Easy | 24 Aug 2026 | 06:30 pm |
 | 88 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 24 Aug 2026 | 07:02 pm |
 | 89 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 24 Aug 2026 | 07:13 pm |
+| 90 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Aug 2026 | 07:26 pm |
