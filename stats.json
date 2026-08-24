@@ -1,11 +1,11 @@
 {
-  "totalSolved": 102,
+  "totalSolved": 103,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 13,
     "hard": 2,
     "basic": 56
@@ -112,7 +112,8 @@
     "Codeforces_379A_-_New_Year_Candles": true,
     "Codeforces_1141A_-_Game_23": true,
     "LeetCode_Unique_Middle_Element": true,
-    "LeetCode_Check_Good_Integer": true
+    "LeetCode_Check_Good_Integer": true,
+    "LeetCode_Score_Validator": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -121,10 +122,11 @@
     "2026-08-15": 16,
     "2026-08-16": 13,
     "2026-08-17": 2,
-    "2026-08-24": 2
+    "2026-08-24": 3
   },
   "todayProblems": [
     "Unique Middle Element",
-    "Check Good Integer"
+    "Check Good Integer",
+    "Score Validator"
   ]
 }

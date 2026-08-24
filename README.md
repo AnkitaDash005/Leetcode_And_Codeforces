@@ -82,3 +82,4 @@
 | 80 | [1141A - Game 23](./Codeforces/basic/1141A%20-%20Game%2023) | [Codeforces](https://codeforces.com/problemset/problem/1141/A) | basic | 17 Aug 2026 | 01:50 am |
 | 81 | [Unique Middle Element](./LeetCode/Easy/Unique%20Middle%20Element) | [LeetCode](https://leetcode.com/problems/unique-middle-element/) | Easy | 24 Aug 2026 | 12:03 pm |
 | 82 | [Check Good Integer](./LeetCode/Easy/Check%20Good%20Integer) | [LeetCode](https://leetcode.com/problems/check-good-integer/) | Easy | 24 Aug 2026 | 12:07 pm |
+| 83 | [Score Validator](./LeetCode/Easy/Score%20Validator) | [LeetCode](https://leetcode.com/problems/score-validator/) | Easy | 24 Aug 2026 | 05:39 pm |
