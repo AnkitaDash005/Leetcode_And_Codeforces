@@ -88,3 +88,4 @@
 | 86 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 24 Aug 2026 | 06:12 pm |
 | 87 | [Count Dominant Indices](./LeetCode/Easy/Count%20Dominant%20Indices) | [LeetCode](https://leetcode.com/problems/count-dominant-indices/) | Easy | 24 Aug 2026 | 06:30 pm |
 | 88 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 24 Aug 2026 | 07:02 pm |
+| 89 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 24 Aug 2026 | 07:13 pm |
