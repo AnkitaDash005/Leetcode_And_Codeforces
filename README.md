@@ -84,3 +84,4 @@
 | 82 | [Check Good Integer](./LeetCode/Easy/Check%20Good%20Integer) | [LeetCode](https://leetcode.com/problems/check-good-integer/) | Easy | 24 Aug 2026 | 12:07 pm |
 | 83 | [Score Validator](./LeetCode/Easy/Score%20Validator) | [LeetCode](https://leetcode.com/problems/score-validator/) | Easy | 24 Aug 2026 | 05:39 pm |
 | 84 | [Valid Digit Number](./LeetCode/Easy/Valid%20Digit%20Number) | [LeetCode](https://leetcode.com/problems/valid-digit-number/) | Easy | 24 Aug 2026 | 05:56 pm |
+| 85 | [Traffic Signal Color](./LeetCode/Easy/Traffic%20Signal%20Color) | [LeetCode](https://leetcode.com/problems/traffic-signal-color/) | Easy | 24 Aug 2026 | 06:00 pm |
