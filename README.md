@@ -80,3 +80,4 @@
 | 78 | [1807A - Plus or Minus](./Codeforces/basic/1807A%20-%20Plus%20or%20Minus) | [Codeforces](https://codeforces.com/problemset/problem/1807/A) | basic | 16 Aug 2026 | 03:55 pm |
 | 79 | [379A - New Year Candles](./Codeforces/basic/379A%20-%20New%20Year%20Candles) | [Codeforces](https://codeforces.com/problemset/problem/379/A) | basic | 17 Aug 2026 | 01:07 am |
 | 80 | [1141A - Game 23](./Codeforces/basic/1141A%20-%20Game%2023) | [Codeforces](https://codeforces.com/problemset/problem/1141/A) | basic | 17 Aug 2026 | 01:50 am |
+| 81 | [Unique Middle Element](./LeetCode/Easy/Unique%20Middle%20Element) | [LeetCode](https://leetcode.com/problems/unique-middle-element/) | Easy | 24 Aug 2026 | 12:03 pm |
