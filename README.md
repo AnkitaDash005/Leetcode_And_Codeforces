@@ -101,8 +101,7 @@
 | 99 | [1669B - Triple](./Codeforces/basic/1669B%20-%20Triple) | [Codeforces](https://codeforces.com/problemset/problem/1669/B) | basic | 25 Aug 2026 | 02:54 pm |
 | 100 | [1881A - Dont Try to Count](./Codeforces/basic/1881A%20-%20Dont%20Try%20to%20Count) | [Codeforces](https://codeforces.com/problemset/problem/1881/A) | basic | 25 Aug 2026 | 03:15 pm |
 | 101 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 25 Aug 2026 | 03:15 pm |
-| 102 | [2185D - OutOfMemoryError](./Codeforces/basic/2185D%20-%20OutOfMemoryError) | [Codeforces](https://codeforces.com/problemset/problem/2185/D) | basic | 25 Aug 2026 | 03:15 pm |
-| 103 | [959A - Mahmoud and Ehab and the even-odd game](./Codeforces/basic/959A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game) | [Codeforces](https://codeforces.com/problemset/problem/959/A) | basic | 25 Aug 2026 | 03:28 pm |
-| 104 | [2009A - Minimize](./Codeforces/basic/2009A%20-%20Minimize) | [Codeforces](https://codeforces.com/problemset/problem/2009/A) | basic | 25 Aug 2026 | 03:40 pm |
-| 105 | [1985A - Creating Words](./Codeforces/basic/1985A%20-%20Creating%20Words) | [Codeforces](https://codeforces.com/problemset/problem/1985/A) | basic | 25 Aug 2026 | 03:57 pm |
-| 106 | [1829A - Love Story](./Codeforces/basic/1829A%20-%20Love%20Story) | [Codeforces](https://codeforces.com/problemset/problem/1829/A) | basic | 25 Aug 2026 | 04:07 pm |
+| 102 | [959A - Mahmoud and Ehab and the even-odd game](./Codeforces/basic/959A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game) | [Codeforces](https://codeforces.com/problemset/problem/959/A) | basic | 25 Aug 2026 | 03:28 pm |
+| 103 | [2009A - Minimize](./Codeforces/basic/2009A%20-%20Minimize) | [Codeforces](https://codeforces.com/problemset/problem/2009/A) | basic | 25 Aug 2026 | 03:40 pm |
+| 104 | [1985A - Creating Words](./Codeforces/basic/1985A%20-%20Creating%20Words) | [Codeforces](https://codeforces.com/problemset/problem/1985/A) | basic | 25 Aug 2026 | 03:57 pm |
+| 105 | [1829A - Love Story](./Codeforces/basic/1829A%20-%20Love%20Story) | [Codeforces](https://codeforces.com/problemset/problem/1829/A) | basic | 25 Aug 2026 | 04:07 pm |
