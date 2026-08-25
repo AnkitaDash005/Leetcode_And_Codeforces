@@ -1,14 +1,14 @@
 {
-  "totalSolved": 125,
+  "totalSolved": 126,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 13,
+  "todayCount": 14,
   "difficultyCounts": {
     "easy": 43,
     "medium": 14,
     "hard": 2,
-    "basic": 66
+    "basic": 67
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -135,7 +135,8 @@
     "Codeforces_2185D_-_OutOfMemoryError": true,
     "Codeforces_959A_-_Mahmoud_and_Ehab_and_the_even-odd_game": true,
     "Codeforces_2009A_-_Minimize": true,
-    "Codeforces_1985A_-_Creating_Words": true
+    "Codeforces_1985A_-_Creating_Words": true,
+    "Codeforces_1829A_-_Love_Story": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -145,7 +146,7 @@
     "2026-08-16": 13,
     "2026-08-17": 2,
     "2026-08-24": 12,
-    "2026-08-25": 13
+    "2026-08-25": 14
   },
   "todayProblems": [
     "Merge Two Sorted Lists",
@@ -160,6 +161,7 @@
     "2185D - OutOfMemoryError",
     "959A - Mahmoud and Ehab and the even-odd game",
     "2009A - Minimize",
-    "1985A - Creating Words"
+    "1985A - Creating Words",
+    "1829A - Love Story"
   ]
 }
