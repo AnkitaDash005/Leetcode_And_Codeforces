@@ -100,3 +100,4 @@
 | 98 | [1866A - Ambitious Kid](./Codeforces/basic/1866A%20-%20Ambitious%20Kid) | [Codeforces](https://codeforces.com/problemset/problem/1866/A) | basic | 25 Aug 2026 | 02:42 pm |
 | 99 | [1669B - Triple](./Codeforces/basic/1669B%20-%20Triple) | [Codeforces](https://codeforces.com/problemset/problem/1669/B) | basic | 25 Aug 2026 | 02:54 pm |
 | 100 | [1881A - Dont Try to Count](./Codeforces/basic/1881A%20-%20Dont%20Try%20to%20Count) | [Codeforces](https://codeforces.com/problemset/problem/1881/A) | basic | 25 Aug 2026 | 03:15 pm |
+| 101 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 25 Aug 2026 | 03:15 pm |
