@@ -1,12 +1,12 @@
 {
-  "totalSolved": 113,
+  "totalSolved": 114,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 42,
-    "medium": 13,
+    "medium": 14,
     "hard": 2,
     "basic": 56
   },
@@ -123,7 +123,8 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Remove_Zeros_in_Decimal_Representation": true,
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "LeetCode_House_Robber": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -133,9 +134,10 @@
     "2026-08-16": 13,
     "2026-08-17": 2,
     "2026-08-24": 12,
-    "2026-08-25": 1
+    "2026-08-25": 2
   },
   "todayProblems": [
-    "Merge Two Sorted Lists"
+    "Merge Two Sorted Lists",
+    "House Robber"
   ]
 }
