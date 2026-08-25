@@ -1,14 +1,14 @@
 {
-  "totalSolved": 121,
+  "totalSolved": 122,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 43,
     "medium": 14,
     "hard": 2,
-    "basic": 62
+    "basic": 63
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -131,7 +131,8 @@
     "Codeforces_1866A_-_Ambitious_Kid": true,
     "Codeforces_1669B_-_Triple": true,
     "Codeforces_1881A_-_Dont_Try_to_Count": true,
-    "Codeforces_4A_-_Watermelon": true
+    "Codeforces_4A_-_Watermelon": true,
+    "Codeforces_2185D_-_OutOfMemoryError": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -141,7 +142,7 @@
     "2026-08-16": 13,
     "2026-08-17": 2,
     "2026-08-24": 12,
-    "2026-08-25": 9
+    "2026-08-25": 10
   },
   "todayProblems": [
     "Merge Two Sorted Lists",
@@ -152,6 +153,7 @@
     "1866A - Ambitious Kid",
     "1669B - Triple",
     "1881A - Dont Try to Count",
-    "4A - Watermelon"
+    "4A - Watermelon",
+    "2185D - OutOfMemoryError"
   ]
 }
