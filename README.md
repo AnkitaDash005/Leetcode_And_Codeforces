@@ -104,3 +104,4 @@
 | 102 | [2185D - OutOfMemoryError](./Codeforces/basic/2185D%20-%20OutOfMemoryError) | [Codeforces](https://codeforces.com/problemset/problem/2185/D) | basic | 25 Aug 2026 | 03:15 pm |
 | 103 | [959A - Mahmoud and Ehab and the even-odd game](./Codeforces/basic/959A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game) | [Codeforces](https://codeforces.com/problemset/problem/959/A) | basic | 25 Aug 2026 | 03:28 pm |
 | 104 | [2009A - Minimize](./Codeforces/basic/2009A%20-%20Minimize) | [Codeforces](https://codeforces.com/problemset/problem/2009/A) | basic | 25 Aug 2026 | 03:40 pm |
+| 105 | [1985A - Creating Words](./Codeforces/basic/1985A%20-%20Creating%20Words) | [Codeforces](https://codeforces.com/problemset/problem/1985/A) | basic | 25 Aug 2026 | 03:57 pm |
