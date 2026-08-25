@@ -1,14 +1,14 @@
 {
-  "totalSolved": 115,
+  "totalSolved": 116,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 43,
     "medium": 14,
     "hard": 2,
-    "basic": 56
+    "basic": 57
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -125,7 +125,8 @@
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_House_Robber": true,
-    "LeetCode_Number_Complement": true
+    "LeetCode_Number_Complement": true,
+    "Codeforces_492A_-_Vanya_and_Cubes": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -135,11 +136,12 @@
     "2026-08-16": 13,
     "2026-08-17": 2,
     "2026-08-24": 12,
-    "2026-08-25": 3
+    "2026-08-25": 4
   },
   "todayProblems": [
     "Merge Two Sorted Lists",
     "House Robber",
-    "Number Complement"
+    "Number Complement",
+    "492A - Vanya and Cubes"
   ]
 }
