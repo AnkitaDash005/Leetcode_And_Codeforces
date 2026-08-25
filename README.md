@@ -96,3 +96,4 @@
 | 94 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 25 Aug 2026 | 12:22 pm |
 | 95 | [Number Complement](./LeetCode/Easy/Number%20Complement) | [LeetCode](https://leetcode.com/problems/number-complement/) | Easy | 25 Aug 2026 | 12:50 pm |
 | 96 | [492A - Vanya and Cubes](./Codeforces/basic/492A%20-%20Vanya%20and%20Cubes) | [Codeforces](https://codeforces.com/problemset/problem/492/A) | basic | 25 Aug 2026 | 02:04 pm |
+| 97 | [1772A - AB](./Codeforces/basic/1772A%20-%20AB) | [Codeforces](https://codeforces.com/problemset/problem/1772/A) | basic | 25 Aug 2026 | 02:15 pm |

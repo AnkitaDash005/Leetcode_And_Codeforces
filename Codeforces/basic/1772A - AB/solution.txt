@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class AplusB {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        int sum=0;
+        while(t-->0){
+            sum=0;
+            String s=sc.next();
+            for(char a:s.toCharArray()){
+                if(a!='+'){
+                    sum+=(a-'0');
+                }
+            }
+            System.out.println(sum);
+            
+    }
+    
+        sc.close();
+}
+}
