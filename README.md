@@ -92,3 +92,4 @@
 | 90 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Aug 2026 | 07:26 pm |
 | 91 | [Remove Zeros in Decimal Representation](./LeetCode/Easy/Remove%20Zeros%20in%20Decimal%20Representation) | [LeetCode](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | Easy | 24 Aug 2026 | 07:58 pm |
 | 92 | [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | [LeetCode](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | 24 Aug 2026 | 08:05 pm |
+| 93 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 25 Aug 2026 | 11:54 am |
