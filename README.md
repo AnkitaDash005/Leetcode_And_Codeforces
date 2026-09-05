@@ -107,3 +107,4 @@
 | 105 | [1829A - Love Story](./Codeforces/basic/1829A%20-%20Love%20Story) | [Codeforces](https://codeforces.com/problemset/problem/1829/A) | basic | 25 Aug 2026 | 04:07 pm |
 | 106 | [1030A - In Search of an Easy Problem](./Codeforces/basic/1030A%20-%20In%20Search%20of%20an%20Easy%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1030/A) | basic | 05 Sept 2026 | 09:01 pm |
 | 107 | [486A - Calculating Function](./Codeforces/basic/486A%20-%20Calculating%20Function) | [Codeforces](https://codeforces.com/problemset/problem/486/A) | basic | 05 Sept 2026 | 09:16 pm |
+| 108 | [To Lower Case](./LeetCode/Easy/To%20Lower%20Case) | [LeetCode](https://leetcode.com/problems/to-lower-case/) | Easy | 05 Sept 2026 | 09:40 pm |

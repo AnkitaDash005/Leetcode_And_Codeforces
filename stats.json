@@ -1,11 +1,11 @@
 {
-  "totalSolved": 128,
+  "totalSolved": 129,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 43,
+    "easy": 44,
     "medium": 14,
     "hard": 2,
     "basic": 69
@@ -138,7 +138,8 @@
     "Codeforces_1985A_-_Creating_Words": true,
     "Codeforces_1829A_-_Love_Story": true,
     "Codeforces_1030A_-_In_Search_of_an_Easy_Problem": true,
-    "Codeforces_486A_-_Calculating_Function": true
+    "Codeforces_486A_-_Calculating_Function": true,
+    "LeetCode_To_Lower_Case": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -149,10 +150,11 @@
     "2026-08-17": 2,
     "2026-08-24": 12,
     "2026-08-25": 14,
-    "2026-09-05": 2
+    "2026-09-05": 3
   },
   "todayProblems": [
     "1030A - In Search of an Easy Problem",
-    "486A - Calculating Function"
+    "486A - Calculating Function",
+    "To Lower Case"
   ]
 }
