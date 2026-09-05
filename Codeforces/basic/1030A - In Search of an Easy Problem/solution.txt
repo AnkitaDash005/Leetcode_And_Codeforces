@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class in_search_of_an_easy_problem{
+    public static void main(String[]args){
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        boolean k=true;
+        while(t--!=0){
+            int s=sc.nextInt();
+            if(s==1){
+                k=false;
+            }
+        }
+        if(k==false){
+            System.out.println("HARD");
+        }
+        else{
+            System.out.println("EASY");
+        }
+        sc.close();
+
+    }
+}
