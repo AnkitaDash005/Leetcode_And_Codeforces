@@ -1,14 +1,14 @@
 {
-  "totalSolved": 127,
+  "totalSolved": 128,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 43,
     "medium": 14,
     "hard": 2,
-    "basic": 68
+    "basic": 69
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -137,7 +137,8 @@
     "Codeforces_2009A_-_Minimize": true,
     "Codeforces_1985A_-_Creating_Words": true,
     "Codeforces_1829A_-_Love_Story": true,
-    "Codeforces_1030A_-_In_Search_of_an_Easy_Problem": true
+    "Codeforces_1030A_-_In_Search_of_an_Easy_Problem": true,
+    "Codeforces_486A_-_Calculating_Function": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -148,9 +149,10 @@
     "2026-08-17": 2,
     "2026-08-24": 12,
     "2026-08-25": 14,
-    "2026-09-05": 1
+    "2026-09-05": 2
   },
   "todayProblems": [
-    "1030A - In Search of an Easy Problem"
+    "1030A - In Search of an Easy Problem",
+    "486A - Calculating Function"
   ]
 }
